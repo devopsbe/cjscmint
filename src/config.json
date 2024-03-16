@@ -11,6 +11,7 @@
     "groups":[
         {
             "name":"whitelist",
+            "merkle_root":"c308dca3de590b543543c6d616389deeddc815e7dd4fbf099e59c6495babf858",
             "allowlist":[
                 "sei14v72v7hgzuvgck6v6jsgjacxnt34gj06qnx53d",
                 "sei1np8wmruv2cm8g2s04lhnyzk8nnpa23c7xfx33f",
@@ -85,9 +86,7 @@
                 "sei1ts8vm4dl5q5wj2d3zkwcy62kwdrpsf960z5x6q",
                 "sei1t22vwusjlxg4vp7gttsx7n2y9u4k0vv9lpk2ge"
             ] 
-            ,"merkle_root":"c308dca3de590b543543c6d616389deeddc815e7dd4fbf099e59c6495babf858"
         },
-        
         {
             "name":"public"
         }
