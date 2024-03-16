@@ -8,9 +8,12 @@
     "network":"pacific-1", 
     "collection_address":"sei19egyv2jznywhryjlt23h8tmlawd8e25xzeh3zuu4pkkuxs43krqs5v40e3", 
     "nft_name_type": "default",
-    "groups":[
+    "groups": [
         {
-            "name":"public"
+          "name": "public"
+        },
+        {
+            "name":"whitelist"
         }
-    ]
-}
+      ]
+    }
