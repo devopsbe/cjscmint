@@ -10,9 +10,6 @@
     "nft_name_type": "default",
     "groups":[
         {
-            "name":"free"
-        },
-        {
             "name":"public"
         }
     ]
