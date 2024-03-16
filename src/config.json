@@ -12,7 +12,8 @@
         {
             "name":"whitelist",
             "merkle_root": "c308dca3de590b543543c6d616389deeddc815e7dd4fbf099e59c6495babf858",
-            "allowlist":[
+            "allowlist":
+            [
                 "sei14v72v7hgzuvgck6v6jsgjacxnt34gj06qnx53d",
                 "sei1np8wmruv2cm8g2s04lhnyzk8nnpa23c7xfx33f",
                 "sei1tpc7zz2sjt07q7hkj20zecckfz678vamqeprux",
